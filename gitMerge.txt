@@ -1,0 +1,1 @@
+Git merge exercise startup file called gitMerge.txt  - commit 1 with the name called startup for merge
