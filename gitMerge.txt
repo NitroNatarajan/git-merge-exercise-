@@ -1,3 +1,5 @@
 Git merge exercise startup file called gitMerge.txt  - commit 1 with the name called startup for merge
 
 Creating a commit after 1st commit on the master branch - commit 2 with the name called add md.
+
+Feature level 1 code will be in the feature1.txt 
